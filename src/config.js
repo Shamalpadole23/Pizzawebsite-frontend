@@ -1,4 +1,4 @@
-const backendBaseUrl = "http://localhost:5000"; // Replace with your backend URL
+const backendBaseUrl = "https://pizzabackend-2wq3.onrender.com"; // Replace with your backend URL
 
 export const apiUrls = {
   createBooking: `${backendBaseUrl}/api/create-booking`,
